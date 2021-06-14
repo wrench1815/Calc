@@ -1,2 +1,3 @@
 # Calc
-A Calculator in js
+
+A Calculator in JS, using only Plain JS.
